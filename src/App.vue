@@ -35,7 +35,7 @@ export default {
 }
 .post {
   border: 1px solid black;
-  border-radius: 5px;
+  border-radius: 8px;
   margin-bottom: 15px;
 }
 </style>
